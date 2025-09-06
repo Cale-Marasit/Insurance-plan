@@ -1,0 +1,5 @@
+outs:
+- md5: 5189282a25d076f18460c52205797b54
+  size: 38
+  hash: md5
+  path: insurance_model-0.1.pkl
